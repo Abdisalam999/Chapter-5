@@ -1,0 +1,7 @@
+body{
+    background: 
+  url("hotel.png"),
+  linear-gradient(to right, blue, purple);
+background-size: cover;
+background-position: center;
+}
